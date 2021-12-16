@@ -1,0 +1,16 @@
+C:\curso\CursoYT\CursoYT\bin\Debug\net5.0\CursoYT.exe
+C:\curso\CursoYT\CursoYT\bin\Debug\net5.0\CursoYT.deps.json
+C:\curso\CursoYT\CursoYT\bin\Debug\net5.0\CursoYT.runtimeconfig.json
+C:\curso\CursoYT\CursoYT\bin\Debug\net5.0\CursoYT.runtimeconfig.dev.json
+C:\curso\CursoYT\CursoYT\bin\Debug\net5.0\CursoYT.dll
+C:\curso\CursoYT\CursoYT\bin\Debug\net5.0\ref\CursoYT.dll
+C:\curso\CursoYT\CursoYT\bin\Debug\net5.0\CursoYT.pdb
+C:\curso\CursoYT\CursoYT\obj\Debug\net5.0\CursoYT.csproj.AssemblyReference.cache
+C:\curso\CursoYT\CursoYT\obj\Debug\net5.0\CursoYT.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\CursoYT\CursoYT\obj\Debug\net5.0\CursoYT.AssemblyInfoInputs.cache
+C:\curso\CursoYT\CursoYT\obj\Debug\net5.0\CursoYT.AssemblyInfo.cs
+C:\curso\CursoYT\CursoYT\obj\Debug\net5.0\CursoYT.csproj.CoreCompileInputs.cache
+C:\curso\CursoYT\CursoYT\obj\Debug\net5.0\CursoYT.dll
+C:\curso\CursoYT\CursoYT\obj\Debug\net5.0\ref\CursoYT.dll
+C:\curso\CursoYT\CursoYT\obj\Debug\net5.0\CursoYT.pdb
+C:\curso\CursoYT\CursoYT\obj\Debug\net5.0\CursoYT.genruntimeconfig.cache
