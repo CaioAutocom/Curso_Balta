@@ -7,4 +7,4 @@ git branch                                              lista as branchs e mostr
 git checkout nome-da-branch                             permite mudar a branch ativa para a nova
 git checkout -b "branch de origem" "Nova branch"        permite mudar e criar uma nova branch 
 git merge "branch a receber o merge"                    faz o merge da branch ativa com outra branch
-git pull                                                atualiza a branch ativa com os arquivos recentes do repositório
+git pull                                                atualiza a branch ativa com os arquivos recentes do repositório 
